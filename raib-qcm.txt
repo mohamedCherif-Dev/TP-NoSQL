@@ -1,0 +1,22 @@
+QCM final — MongoDB 
+
+1. A, B, D
+2. A, C, D
+3. C
+4. B, C, D
+5. B, C
+6. B, C, D
+7. A, B, C
+8. B
+9. B
+10. B
+11. B
+12. B
+13. A, C, D
+14. A, B
+15. B, C, D
+16. C
+17. B, C
+18. A, B, D
+19. A, B, D
+20. B
